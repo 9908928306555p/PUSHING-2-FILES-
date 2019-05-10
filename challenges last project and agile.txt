@@ -1,5 +1,5 @@
 
-Challenges in the latest project
+Challenges 
 data not available: unavailability of data and documentation 
 data refresh was always a problem, claims will not match. 
 Migration project: Converting sas to sql,
