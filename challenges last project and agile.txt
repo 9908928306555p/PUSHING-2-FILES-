@@ -1,0 +1,30 @@
+
+Challenges in the latest project
+data not available: unavailability of data and documentation 
+data refresh was always a problem, claims will not match. 
+Migration project: Converting sas to sql,
+reports: reports level sorting and filters
+report optimization ssrs. 
+data dependency. 
+
+
+agile: standups, scrummaster use to takecare of the agile. 
+discussed about the blockers and dependencies 
+2 weeks retrospective and Project planning
+retro: we used to give feedback and in project planning we used to give feed back about the stories that we picked. 
+
+INCREMENTAL LOADS 
+USED SCDS AND LOOKUPS
+
+https://www.blogger.com/u/1/blogger.g?tab=mj&blogID=8915763920485816967#editor/target=post;postID=4847728713908959758;onPublishedMenu=allposts;onClosedMenu=allposts;postNum=0;src=postname
+https://praveenthummala.blogspot.com/2015/11/big-data-kumar-thummala-university-of.html
+
+https://erpsme.blogspot.com/2015/11/erp-implementation-in-sme-afailure-case.html
+
+1st April - 5th April , 10 AM onwards
+Harishchandrababu HR -Manager Jayam Solutions Pvt Ltd, Door No12-7-134-320,Plot No: 320, Gokul Nilayam, Anjaneya Nagar Colony,Moosapet, Hyderabad Telangana , 500018.
+
+
+
+
+
